@@ -28,17 +28,14 @@ This branch is for building 6.0.x based ROMs.
 
         # fire855
 
-        # Besik13
-
-        # dee3000
-
-        # ferhung-mtk
+        # ferhung-mtk (his patches)
         
-        # hyperion70
+        # hyperion70 (tree and fixes)
         
         # ariafan
         
         # DerTeufel
         
         # all those who initially brought up Android M to MTK
+
 
